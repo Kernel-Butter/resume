@@ -1,0 +1,166 @@
+\documentclass[11pt]{article}
+
+% Configuring page geometry for a balanced, single-page resume
+\usepackage[left=0.65in,top=0.5in,right=0.65in,bottom=0.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{fontawesome5} % For icons in the header
+\usepackage{ragged2e} % For justified text with better hyphenation
+
+% Disabling section numbering to remove numbers before headings
+\setcounter{secnumdepth}{0}
+
+% Defining professional color scheme
+\definecolor{mybgcolor}{HTML}{F8F9FA}
+\definecolor{headercolor}{HTML}{1f2937}
+\definecolor{linkcolor}{HTML}{2563eb}
+\definecolor{accentcolor}{HTML}{4b5e40}
+\pagecolor{mybgcolor}
+
+% Setting up hyperlinks with a clean look
+\hypersetup{
+    colorlinks=true,
+    urlcolor=linkcolor,
+    linkcolor=linkcolor
+}
+
+% Customizing section headers for a modern, clean aesthetic
+\titleformat{\section}{\large\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+% Custom command for the header
+\newcommand{\resumeHeader}[4]{
+    \begin{center}
+        \vspace*{5pt}
+        \colorbox{headercolor}{\parbox{0.95\textwidth}{
+            \vspace{8pt}
+            \begin{center}
+                \textcolor{white}{\LARGE\bfseries #1} \\[5pt]
+                \textcolor{white}{\large Software Developer \textbullet{} #2} \\[3pt]
+                \textcolor{white}{\normalsize
+                    \faPhone~#3 \textbullet{}
+                    \faEnvelope~\href{mailto:hamzaabhutta@gmail.com}{hamzaabhutta@gmail.com} \textbullet{}
+                    \faLinkedin~\href{https://www.linkedin.com/in/hamzabhutta}{linkedin.com/in/hamzabhutta} \textbullet{}
+                    \faGlobe~\href{https://hamzabhutta.vercel.app/}{hamzabhutta.vercel.app}
+                    % \faGithub~\href{https://github.com/hamzabhutta}{github.com/hamzabhutta}
+                }
+            \end{center}
+            \vspace{8pt}
+        }}
+        \vspace{10pt}
+    \end{center}
+}
+
+% Customizing subsection for experience entries
+\titleformat{\subsection}{\normalsize\bfseries\color{headercolor}}{\thesubsection}{1em}{}
+\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+
+% Setting up itemize for consistent spacing
+\setlist[itemize]{leftmargin=*,itemsep=0.3em,topsep=0.3em}
+
+\begin{document}
+\pagestyle{empty} % No page numbers for single-page resume
+\RaggedRight % Better text justification
+
+% Creating aesthetic header
+\resumeHeader{Hamza Bhutta}{Remote Available Globally}{+92 311 1208388}{}
+
+%----------------------------------------------------------------------------------------
+%	PROFESSIONAL SUMMARY SECTION
+%----------------------------------------------------------------------------------------
+\section{Professional Summary}
+Experienced Software Developer with over 1.5 years of expertise in building scalable web applications using React.js, Next.js, Node.js, and modern technologies. Proven ability to deliver high-performance solutions that enhance user experience and drive business growth. Skilled in full-stack development, performance optimization, and agile methodologies.
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\section{Professional Experience}
+\subsection{\texorpdfstring{Topdot \hfill July 2024 -- Present}{Topdot, July 2024 -- Present}}
+\textbf{Software Developer} \hfill Hybrid
+\begin{itemize}
+\item Architected and optimized React.js and Next.js applications, reducing load times by 30\% through advanced performance techniques
+\item Led responsive design initiatives, increasing mobile traffic by 25\% and improving user retention by 20\%
+\item Collaborated with cross-functional teams to deliver pixel-perfect, high-performance user interfaces
+\item Implemented scalable full-stack solutions with Node.js and RESTful APIs, ensuring robust system architecture
+\item Conducted code reviews and optimized performance using Lighthouse audits and progressive web app strategies
+\end{itemize}
+
+\subsection{\texorpdfstring{Absoluit \hfill April 2023 -- December 2023}{Absoluit, April 2023 -- December 2023}}
+\textbf{Associate Software Engineer} \hfill Hybrid
+\begin{itemize}
+\item Developed scalable Progressive Web Applications using React.js, boosting user engagement by 25\%
+\item Created a reusable component library with 50+ UI elements, cutting development time by 20\%
+\item Enhanced SEO with Next.js SSR and meta management, driving 30\% growth in organic traffic
+\item Contributed to full software development lifecycle in agile environments, ensuring timely deliveries
+\item Mentored junior developers on modern JavaScript (ES6+) and full-stack best practices
+\end{itemize}
+
+\subsection{\texorpdfstring{FAST-NUCES \hfill September 2022 -- March 2023}{FAST-NUCES, September 2022 -- March 2023}}
+\textbf{Full-Stack Developer (Final Year Project)} \hfill On-Site
+\begin{itemize}
+\item Built a comprehensive event management system using React.js, Node.js, and MongoDB
+\item Implemented real-time notifications and responsive UI, improving engagement by 35\% during testing
+\item Deployed application
+
+ on Vercel, supporting 500+ concurrent users with optimized performance
+\item Managed end-to-end project lifecycle from requirements to deployment
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL EXPERTISE SECTION
+%----------------------------------------------------------------------------------------
+\section{Technical Expertise}
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+\textbf{Frontend} & React.js, Next.js, Vue.js, JavaScript (ES6+), HTML5, CSS3, SCSS \\
+\textbf{Styling \& UI} & Tailwind CSS,DaisyUI, Material-UI, Bootstrap, Styled Components\\
+\textbf{Backend} & Node.js, Express.js, RESTful APIs, GraphQL, MongoDB, PostgreSQL \\
+\textbf{Tools} & VScode, Git/GitHub, Webpack, Vite, Vercel, Netlify, Firebase \\
+\textbf{Testing \& Quality} & Jest, ESLint, Prettier, TypeScript, Chrome DevTools \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\textbf{Bachelor of Science in Computer Science}, FAST-NUCES \hfill Graduated: July 2023 \\
+% \textit{Relevant Coursework:} Data Structures, Algorithms, Database Systems, Software Engineering, Web Development
+
+%----------------------------------------------------------------------------------------
+%	KEY ACHIEVEMENTS SECTION
+%----------------------------------------------------------------------------------------
+\section{Key Achievements}
+\begin{itemize}
+\item \textbf{Game Development:} Engineered a JavaScript-based brick breaker game with smooth animations and particle effects, enhancing user engagement by 35\% through real-time collision detection and power-up mechanics
+\item \textbf{Animation Optimization:} Implemented efficient CSS and React.js animations, reducing rendering times by 25\% using techniques like requestAnimationFrame and optimized state management
+\item \textbf{Performance Enhancement:} Improved React.js application performance by 30\% through code splitting, lazy loading, and memoization, ensuring seamless user experiences
+\item \textbf{Reusable Components:} Developed a modular React.js component library with 50+ reusable UI elements, accelerating development cycles by 20\% across multiple projects
+\item \textbf{Cross-Browser Compatibility:} Resolved game performance issues in Safari by optimizing JavaScript game loops with delta time, achieving consistent ball motion and 100\% functionality across browsers
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS SECTION
+%----------------------------------------------------------------------------------------
+\section{Professional Certifications}
+\begin{itemize}
+\item \href{https://www.coursera.org/account/accomplishments/verify/QC73X86DWCRK}{\textbf{Advanced React} -- Meta (Coursera)} \hfill 2023
+\item \href{https://www.freecodecamp.org/certification/fcc36860a3c-366f-4e05-8655-9eeeba048998/front-end-development-libraries}{\textbf{Frontend Development Libraries} -- freeCodeCamp} \hfill 2023
+\item \href{https://www.credly.com/badges/41de71d0-506d-4fc4-98b8-3d72b7d4fd44/linked_in_profile}{\textbf{DevOps Essentials} -- IBM} \hfill 2023
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+\section{Additional Information}
+\begin{itemize}
+% \item \textbf{Languages:} English (Professional), Urdu (Native), Dutch (Conversational)
+\item \textbf{Languages:} English (Professional), Willing to learn new languages
+\item \textbf{Work Preference:} Seeking full-time remote opportunities with global teams
+\item \textbf{Interests:} Open-source contribution, web performance optimization, modern software architecture
+\end{itemize}
+
+\end{document}

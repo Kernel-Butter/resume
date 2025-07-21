@@ -1,0 +1,141 @@
+% \documentclass[8pt,a4paper,serif]{moderncv}
+
+
+% % Font support
+% \usepackage{fontspec}
+ 
+% % \setmainfont{Lexend}
+% % \setmainfont{Lexend Deca}
+% % \setmainfont{Comic Neue}
+% % \setmainfont{Comic Sans MS}
+% % \setmainfont{DM Sans}
+  
+% % \setmainfont{Nunito Sans}
+% %\setmainfont{Raleway}
+% % \setmainfont{Arial}
+
+
+
+% \moderncvstyle{banking}
+% \moderncvcolor{blue}
+
+% % Packages
+% \usepackage[scale=0.85]{geometry}
+% \usepackage{xcolor}
+
+% % Define custom colors
+% \definecolor{primaryblue}{RGB}{0,102,204}
+% \definecolor{darkgray}{RGB}{64,64,64}
+% \definecolor{lightgray}{RGB}{128,128,128}
+
+% % Custom section formatting
+% \renewcommand*{\sectionfont}{\Large\bfseries\color{primaryblue}}
+
+% % Personal information
+% \name{Hamza}{Bhutta}
+% \title{Software Developer}
+% \address{ }{}{}
+% \phone[mobile]{+32~XXX~XXX~XXX}
+% \email{hamzaabhutta@gmail.com}
+% \homepage{hamzabhutta.vercel.app}
+% \social[linkedin]{hamzabhutta}
+% \social[github]{hamzabhutta}
+
+% \begin{document}
+
+% % Header
+% \makecvtitle
+
+% % Professional Summary
+% \section{Professional Summary}
+% \cvitem{}{Dedicated Frontend Developer with 2+ years of experience specializing in React.js, Next.js, Vue.js, and modern web technologies. Proven track record of delivering high-performance web applications that drive business growth and enhance user experience. Passionate about creating scalable, maintainable solutions using cutting-edge technologies and best practices.}
+
+% % Experience
+% \section{Professional Experience}
+
+% \cventry{July 2024 -- Present}{Frontend Developer}{Topdot}{Hybrid}{}{\begin{itemize}
+%   \item Enhanced website performance through React.js and Next.js optimization, achieving 30\% reduction in load times
+%   \item Implemented responsive design principles, resulting in 25\% increase in mobile traffic and 20\% improvement in user retention
+%   \item Collaborated closely with UX/UI teams to translate design mockups into pixel-perfect, interactive user interfaces
+%   \item Contributed to code reviews and maintained high coding standards across the development team
+% \end{itemize}}
+
+% \cventry{April 2023 -- December 2023}{Associate Software Engineer}{Absoluit}{Hybrid}{}{\begin{itemize}
+%   \item Architected and developed a Progressive Web Application (PWA) using React.js, increasing user engagement by 25\%
+%   \item Created a comprehensive component library with reusable UI elements, reducing development time by 20\%
+%   \item Implemented SEO best practices with Next.js, driving 30\% increase in organic traffic and improved search rankings
+%   \item Participated in agile development processes and sprint planning sessions
+% \end{itemize}}
+
+% \cventry{September 2022 -- March 2023}{Full-Stack Developer}{Final Year Project, FAST-NUCES}{Pakistan}{}{\begin{itemize}
+%   \item Developed a comprehensive event management system using React.js, Node.js, and MongoDB
+%   \item Implemented real-time notifications and responsive UI design, improving user engagement by 35\%
+%   \item Successfully deployed application on Vercel with optimized performance for 500+ concurrent users
+%   \item Managed complete project lifecycle from requirements gathering to deployment and maintenance
+% \end{itemize}}
+
+% % Education
+% \section{Education}
+% \cventry{2019 -- 2023}{Bachelor of Science in Computer Science}{FAST-NUCES}{Pakistan}{\textit{Graduated with Honors}}{}
+
+% % Technical Skills
+% \section{Technical Expertise}
+
+% \cvitem{\textbf{Frontend Technologies}}{HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript, React.js, Vue.js, Redux, Context API, Next.js, Gatsby, Tailwind CSS, Bootstrap, Material-UI, GSAP, Framer Motion}
+
+% \cvitem{\textbf{Backend \& Database}}{Node.js, Express.js, MongoDB, PostgreSQL, RESTful APIs, GraphQL}
+
+% \cvitem{\textbf{Development Tools}}{Git, GitHub, GitLab, Vercel, Netlify, Firebase, Webpack, Vite, Docker}
+
+% % Languages
+% \section{Languages}
+% \cvitem{English}{Professional working proficiency}
+% \cvitem{Urdu}{Native speaker}
+% %\cvitem{Dutch}{Basic conversational level}
+
+% % Key Projects
+% %\newpage
+% \section{Notable Projects}
+
+% \cventry{}{Personal Portfolio Showcase}{\href{https://hamzabhutta.vercel.app}{\textcolor{primaryblue}{hamzabhutta.vercel.app}}}{}{}{\begin{itemize}
+%   \item Developed a dynamic, interactive portfolio using React.js, Next.js, and GSAP animations
+%   \item Implemented responsive design with smooth transitions and modern UI/UX principles
+%   \item Integrated contact forms and project showcases with optimal performance metrics
+% \end{itemize}
+% \textit{Technologies: React.js, Next.js, GSAP, Tailwind CSS}}
+
+% \cventry{}{E-commerce Platform}{Live Demo Available}{}{}{\begin{itemize}
+%   \item Built a comprehensive e-commerce solution with advanced product filtering and search functionality
+%   \item Implemented secure payment integration and user authentication systems
+%   \item Optimized for mobile-first experience with progressive web app capabilities
+% \end{itemize}
+% \textit{Technologies: React.js, Node.js, MongoDB, Stripe API}}
+
+% \cventry{}{Scheduling Management System}{Production Ready}{}{}{\begin{itemize}
+%   \item Created a sophisticated booking platform with real-time availability synchronization
+%   \item Integrated calendar APIs and implemented conflict resolution algorithms
+%   \item Designed intuitive user interface with seamless booking experience
+% \end{itemize}
+% \textit{Technologies: React.js, Firebase, Calendar APIs}}
+
+% \cventry{}{Productivity Management Platform}{Enterprise Solution}{}{}{\begin{itemize}
+%   \item Developed a comprehensive workspace management solution with collaboration features
+%   \item Implemented real-time data synchronization and intuitive dashboard interfaces
+%   \item Integrated multiple productivity tools into a unified platform
+% \end{itemize}
+% \textit{Technologies: React.js, Next.js, WebSocket, PostgreSQL}}
+
+% % Certifications
+% \section{Professional Certifications}
+% \cvitem{2024}{\textbf{Advanced React} -- Meta (Coursera) \hfill \href{https://www.coursera.org/account/accomplishments/verify/QC73X86DWCRK}{\textcolor{primaryblue}{View Certificate}}}
+% \cvitem{2023}{\textbf{Frontend Development Libraries} -- freeCodeCamp \hfill \href{https://www.freecodecamp.org/certification/fcc36860a3c-366f-4e05-8655-9eeeba048998/front-end-development-libraries}{\textcolor{primaryblue}{View Certificate}}}
+% \cvitem{2023}{\textbf{DevOps Essentials} -- IBM \hfill \href{https://www.credly.com/badges/41de71d0-506d-4fc4-98b8-3d72b7d4fd44/linked_in_profile}{\textcolor{primaryblue}{View Badge}}}
+
+% \section{Additional Information}
+% \cvitem{Availability}{Immediately available for full-time or freelance opportunities (remote or hybrid)}
+% %\cvitem{Work Status}{EU Blue Card holder / Authorized to work in Belgium}
+% %\cvitem{Work Authorization}{Eligible to work in the EU}
+% \cvitem{Professional Interests}{Open-source collaboration, performance-driven UI/UX,   web accessibility (a11y), and frontend tooling innovations}
+% \cvitem{Personal Interests}{Design systems,Distribution systems, Learning}
+ 
+% \end{document}
