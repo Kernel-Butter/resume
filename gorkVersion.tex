@@ -30,19 +30,19 @@
 }
 
 % Customizing section headers for a modern, clean aesthetic
-\titleformat{\section}{\large\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
-\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titleformat{\section}{\Large\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{20pt}{6pt}
 
 % Custom command for the header - removed background box
 \newcommand{\resumeHeader}[4]{
     \begin{center}
         \vspace*{10pt}
-        {\LARGE\bfseries\color{headercolor} #1} \\[8pt]
+        {\Huge\bfseries\color{headercolor} #1} \\[8pt]
         {\large\color{headercolor} Software Developer \textbullet{} #2} \\[6pt]
         {\normalsize\color{headercolor}
-            \faPhone~#3 \textbullet{}
-            \faEnvelope~\href{mailto:hamzaabhutta@gmail.com}{hamzaabhutta@gmail.com} \textbullet{}
-            \faLinkedin~\href{https://www.linkedin.com/in/hamzabhutta}{linkedin.com/in/hamzabhutta} \textbullet{}
+            \faPhone~#3  {}
+            \faEnvelope~\href{mailto:hamzaabhutta@gmail.com}{hamzaabhutta@gmail.com}  {}
+            \faLinkedin~\href{https://www.linkedin.com/in/hamzabhutta}{linkedin.com/in/hamzabhutta} {}
             \faGlobe~\href{https://hamzabhutta.vercel.app/}{hamzabhutta.vercel.app}
             % \faGithub~\href{https://github.com/hamzabhutta}{github.com/hamzabhutta}
         }
@@ -69,7 +69,7 @@
 %----------------------------------------------------------------------------------------
 %	PROFESSIONAL SUMMARY SECTION
 %----------------------------------------------------------------------------------------
-\section{Professional Summary}
+\section{Professional Summary}\justifying
 Dynamic Software Developer with 1.5+ years of experience building scalable web applications using React.js, Next.js, and Node.js, with a passion for crafting engaging animations and interactive game mechanics. Adept at delivering high-performance, user-focused solutions for global remote teams. Skilled in full-stack development, performance optimization, and agile workflows, with a strong commitment to modern JavaScript and UI/UX excellence.
 
 %----------------------------------------------------------------------------------------
