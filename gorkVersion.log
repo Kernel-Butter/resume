@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 02:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 06:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,76 +215,32 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box55
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
-\ttl@plus=\dimen162
-\ttl@minus=\dimen163
-\ttl@toksa=\toks20
-\titlewidth=\dimen164
-\titlewidthlast=\dimen165
-\titlewidthfirst=\dimen166
-)
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
 
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen167
-\ar@mcellbox=\box56
-\extrarowheight=\dimen168
-\NC@list=\toks21
-\extratabsurround=\skip55
-\backup@length=\skip56
-\ar@cellbox=\box57
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-\TX@col@width=\dimen169
-\TX@old@table=\dimen170
-\TX@old@col=\dimen171
-\TX@target=\dimen172
-\TX@delta=\dimen173
-\TX@cols=\count298
-\TX@ftn=\toks22
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
-5.sty (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count298
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-07-11 L3 programming layer (loader) 
 
 (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
@@ -294,15 +250,883 @@ File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
 \g__pdfannot_backend_int=\count300
 \g__pdfannot_backend_link_int=\count301
 ))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count302
+\l__fontspec_language_int=\count303
+\l__fontspec_strnum_int=\count304
+\l__fontspec_tmp_int=\count305
+\l__fontspec_tmpa_int=\count306
+\l__fontspec_tmpb_int=\count307
+\l__fontspec_tmpc_int=\count308
+\l__fontspec_em_int=\count309
+\l__fontspec_emdef_int=\count310
+\l__fontspec_strong_int=\count311
+\l__fontspec_strongdef_int=\count312
+\l__fontspec_tmpa_dim=\dimen162
+\l__fontspec_tmpb_dim=\dimen163
+\l__fontspec_tmpc_dim=\dimen164
+ (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(0)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(1)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'RobotoCondensed(0)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoCondensed-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'RobotoCondensed(1)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont = *-Bold,ItalicFont =
+(fontspec)             *-BoldItalic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             RobotoSlab-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoSlab-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoSlab-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoSlab-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             RobotoSlab-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'RobotoSlab(0)' created for font
+(fontspec)             'RobotoSlab' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Regular,BoldFont =
+(fontspec)             *-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=d
+flt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=d
+flt;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(2)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(3)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Medium,ItalicFont = *-MediumItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(4)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Thin,ItalicFont = *-ThinItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(5)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(6)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Bold,ItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(7)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Black,ItalicFont = *-BlackItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(8)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(9)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Roboto-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Roboto(10)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+) (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen165
+\ttl@minus=\dimen166
+\ttl@toksa=\toks22
+\titlewidth=\dimen167
+\titlewidthlast=\dimen168
+\titlewidthfirst=\dimen169
+) (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen170
+\ar@mcellbox=\box56
+\extrarowheight=\dimen171
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen172
+\TX@old@table=\dimen173
+\TX@old@col=\dimen174
+\TX@target=\dimen175
+\TX@delta=\dimen176
+\TX@cols=\count313
+\TX@ftn=\toks24
+)
+(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
 (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
 ys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
-)
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
-.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 (C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
 5-utex-helper.sty
@@ -340,26 +1164,26 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 30.
 (gorkVersion.aux)
 \openout1 = `gorkVersion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -395,45 +1219,79 @@ LaTeX Font Info:    ... okay on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 66.
+Package hyperref Info: Link coloring ON on input line 62.
 (gorkVersion.out) (gorkVersion.out)
 \@outlinefile=\write3
 \openout3 = `gorkVersion.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
-1.
 
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
-1.
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
 
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-71.
-
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-71.
-
-(C:\Users\info\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 71.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 71.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 71.
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 62.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 62.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 62.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 62.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 62.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 62.
+LaTeX Font Info:    Redeclaring math accent \check on input line 62.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 62.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 62.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 62.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 62.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 62.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 62.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 62.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Roboto(0)/m/n on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 62.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Roboto(0)/b/n on input line 62.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 62.
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 83.
+(hyperref)                be the same. Added a new anchor on input line 79.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\TU/lmr/m/n/10.95 Tailwind CSS, Material-UI, Bootstrap, Styled Components, G
+SAP, Responsive
+ []
 
 
 
@@ -450,12 +1308,12 @@ Package rerunfilecheck Info: File `gorkVersion.out' has not changed.
 (rerunfilecheck)             Checksum: 75D7DF8ED9CEC33749F91DC77E98BCCE;1725.
  ) 
 Here is how much of TeX's memory you used:
- 11521 strings out of 403265
- 171887 string characters out of 5461437
- 606351 words of memory out of 5000000
- 39837 multiletter control sequences out of 15000+600000
- 656965 words of font info for 62 fonts, out of 8000000 for 9000
+ 14323 strings out of 403265
+ 272814 string characters out of 5461437
+ 748951 words of memory out of 5000000
+ 42566 multiletter control sequences out of 15000+600000
+ 633282 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,8n,79p,414b,332s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,8n,110p,504b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on gorkVersion.pdf (2 pages).
