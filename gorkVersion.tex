@@ -34,27 +34,28 @@
 \titlespacing*{\section}{0pt}{20pt}{6pt}
 
 % Custom command for the header - removed background box
-\newcommand{\resumeHeader}[4]{
+\newcommand{\resumeHeader}[5]{ % Add 5th argument for summary
     \begin{center}
         \vspace*{10pt}
         {\Huge\bfseries\color{headercolor} #1} \\[8pt]
-        {\large\color{headercolor} Software Developer \textbullet{} #2} \\[6pt]
+        {\large\color{headercolor} Software Developer {}} \\[6pt]
         {\normalsize\color{headercolor}
-            \faPhone~#3  {}
+            \faPhone~ {+92 311 1208388} {}
             \faEnvelope~\href{mailto:hamzaabhutta@gmail.com}{hamzaabhutta@gmail.com}  {}
             \faLinkedin~\href{https://www.linkedin.com/in/hamzabhutta}{linkedin.com/in/hamzabhutta} {}
             \faGlobe~\href{https://hamzabhutta.vercel.app/}{hamzabhutta.vercel.app}
-            % \faGithub~\href{https://github.com/hamzabhutta}{github.com/hamzabhutta}
-        }
-        \vspace{15pt}
-        \hrule height 1pt
+        } \\[10pt]
+        \parbox{0.9\textwidth}{\centering\small\color{black}#5} % Summary text in smaller font
         \vspace{10pt}
+        % \hrule height 1pt
+        % \vspace{10pt}
     \end{center}
 }
 
+
 % Customizing subsection for experience entries
 \titleformat{\subsection}{\normalsize\bfseries\color{headercolor}}{\thesubsection}{1em}{}
-\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+\titlespacing*{\subsection}{0pt}{5pt}{4pt}
 
 % Setting up itemize for consistent spacing
 \setlist[itemize]{leftmargin=*,itemsep=0.3em,topsep=0.3em}
@@ -64,57 +65,59 @@
 \RaggedRight % Better text justification
 
 % Creating clean header without background box
-\resumeHeader{Hamza Bhutta}{Remote}{+92 311 1208388}{}
+\resumeHeader{Hamza Bhutta}{}{}{}{Dynamic Software Developer with years of industrial experience building scalable applications with passion. Adept at delivering high-performance, user-focused solutions. Skilled in software development and follow best practices to reduce development costs.}
+
 
 %----------------------------------------------------------------------------------------
 %	PROFESSIONAL SUMMARY SECTION
 %----------------------------------------------------------------------------------------
-\section{Professional Summary}\justifying
-Dynamic Software Developer with 1.5+ years of experience building scalable web applications using React.js, Next.js, and Node.js, with a passion for crafting engaging animations and interactive game mechanics. Adept at delivering high-performance, user-focused solutions for global remote teams. Skilled in full-stack development, performance optimization, and agile workflows, with a strong commitment to modern JavaScript and UI/UX excellence.
+% \section{Professional Summary}\justifying{}
+% Dynamic Software Developer with years of industrial experience building scalable web applications with a passion for crafting engaging animations and interactive game mechanics. Adept at delivering high-performance, user-focused solutions. Skilled in software development and follow best practices to reduce development costs.
 
 %----------------------------------------------------------------------------------------
 %	EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
-\section{Professional Experience}
-\subsection{\texorpdfstring{Topdot \hfill July 2024 -- Present}{Topdot, July 2024 -- Present}}
-\textbf{Software Frontend Developer} \hfill Hybrid
+\section{Experience}
+\subsection{\texorpdfstring{Topdot \hfill July 2024 -- Present}{Topdot, July 2024 -- Present}}  
+\textbf{Software Frontend Developer} \hfill On-Site  
 \begin{itemize}
-\item Architected and optimized React.js and Next.js applications, reducing load times by 30\% through advanced performance techniques
-\item Led responsive design initiatives, increasing mobile traffic by 25\% and improving user retention by 20\%
-\item Collaborated with cross-functional teams to deliver pixel-perfect, high-performance user interfaces
-\item Implemented scalable full-stack solutions with Node.js and RESTful APIs, ensuring robust system architecture
-\item Conducted code reviews and optimized performance using Lighthouse audits and progressive web app strategies
+\item Created interactive frontend experiences for web games using Vanilla JS and \texttt{<canvas>}
+\item Used AI tools to speed up development workflows and reduce delivery time across projects  
+\item Applied GSAP for smooth, appealing animations to enhance overall website experience  
+\item Leveraged Lighthouse, Web Vitals, and audits to fix bottlenecks and kept performance scores above 90\%  
 \end{itemize}
+
 
 \subsection{\texorpdfstring{Absoluit \hfill April 2023 -- December 2023}{Absoluit, April 2023 -- December 2023}}
-\textbf{Associate Software Engineer} \hfill Hybrid
+\textbf{Associate Software Engineer} \hfill Hybrid  
 \begin{itemize}
-\item Developed scalable Progressive Web Applications using React.js, boosting user engagement by 25\%
-\item Created a reusable component library with 50+ UI elements, cutting development time by 20\%
-\item Enhanced SEO with Next.js SSR and meta management, driving 30\% growth in organic traffic
-\item Contributed to full software development lifecycle in agile environments, ensuring timely deliveries
-\item Mentored junior developers on modern JavaScript (ES6+) and full-stack best practices
+\item Reduced development time by 30\% with modular architecture, pure and reusable components
+\item Collaborated in cross-functional teams using Git,Jira and code reviews for smooth delivery cycles  
+\item Reduced development time with reactive state management and incresed performance by 25\%
+\item Designed GraphQL APIs and modular backend services for scalability and ease of maintenance  
 \end{itemize}
 
-\subsection{\texorpdfstring{FAST-NUCES \hfill September 2022 -- March 2023}{FAST-NUCES, September 2022 -- March 2023}}
-\textbf{Full-Stack Developer (Final Year Project)} \hfill On-Site
-\begin{itemize}
-\item Built a comprehensive event management system using React.js, Node.js, and MongoDB
-\item Implemented real-time notifications and responsive UI, improving engagement by 35\% during testing
-\item Deployed application on Vercel, supporting 500+ concurrent users with optimized performance
-\item Managed end-to-end project lifecycle from requirements to deployment
-\end{itemize}
+
+% \subsection{\texorpdfstring{FAST-NUCES \hfill September 2022 -- March 2023}{FAST-NUCES, September 2022 -- March 2023}}  
+% \textbf{Full-Stack Developer (Final Year Project)} \hfill On-Site  
+% \begin{itemize}
+% \item Built a comprehensive event management system using React.js, Node.js, and MongoDB  
+% \item Implemented real-time notifications and responsive UI, improving engagement by 35\% during testing  
+% \item Designed RESTful APIs and modular backend services for scalability and ease of maintenance  
+% \item Integrated secure user authentication and role-based access control using JWT  
+% \end{itemize}
+
 
 %----------------------------------------------------------------------------------------
 %	TECHNICAL EXPERTISE SECTION
 %----------------------------------------------------------------------------------------
 \section{Technical Expertise}
 \begin{tabularx}{\textwidth}{@{} l X @{}}
-\textbf{Frontend} & React.js, Next.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS \\
-\textbf{Backend} & Node.js, Express.js, RESTful APIs, GraphQL, MongoDB, PostgreSQL \\
-\textbf{Styling \& UI} & Tailwind CSS, Material-UI, Bootstrap, Styled Components, GSAP, Responsive Design \\
-\textbf{Tools \& Platforms} & Git/GitHub, Webpack, Vite, Docker, Vercel, Netlify, Firebase \\
-\textbf{Testing \& Quality} & Jest, ESLint, Prettier, Chrome DevTools \\
+\textbf{Frontend} & React.js, Next.js, Vue.js, JavaScript (ES6+), GSAP, HTML5, SCSS \\
+\textbf{Backend} & Node.js, Express.js, RESTful APIs, GraphQL, MongoDB, SQL \\
+\textbf{Styling \& UI} & Tailwind CSS, Material-UI, Bootstrap, Daisy-UI \\
+\textbf{Tools \& Platforms} & Git/GitHub, Vite, Oracle, Vercel, Netlify \\
+\textbf{Testing \& Quality} & Jest, Lighthouse, Chrome DevTools \\
 \end{tabularx}
 
 %----------------------------------------------------------------------------------------
@@ -127,14 +130,14 @@ Dynamic Software Developer with 1.5+ years of experience building scalable web a
 %----------------------------------------------------------------------------------------
 %	KEY ACHIEVEMENTS SECTION
 %----------------------------------------------------------------------------------------
-\section{Key Achievements}
-\begin{itemize}
-\item \textbf{Interactive Game Development:} Built a JavaScript-based brick breaker game with 10+ levels, featuring real-time collision detection and GSAP-driven particle animations, increasing user engagement by 35\%
-\item \textbf{Animation Performance:} Optimized React.js animations using GSAP and requestAnimationFrame, reducing rendering times by 25\% for seamless UI interactions
-\item \textbf{Application Performance:} Enhanced React.js application load times by 30\% through code splitting, lazy loading, and React.memo, supporting 10,000+ monthly users
-\item \textbf{UI Component Efficiency:} Designed a modular React.js component library with 50+ reusable elements, streamlining development by 20\% across three projects
-\item \textbf{Cross-Browser Optimization:} Improved game performance in accross browsers by refining JavaScript game loops with delta timing, ensuring consistent 60 FPS gameplay across browsers
-\end{itemize}
+% \section{Key Achievements}
+% \begin{itemize}
+% \item \textbf{Interactive Game Development:} Built a JavaScript-based brick breaker game with 10+ levels, featuring real-time collision detection and GSAP-driven particle animations, increasing user engagement by 35\%
+% \item \textbf{Animation Performance:} Optimized React.js animations using JavaScript and requestAnimationFrame, reducing rendering times by 25\% for seamless UI interactions
+% \item \textbf{Application Performance:} Enhanced React.js application load times by 30\% through code splitting, lazy loading, and React.memo, supporting 10,000+ monthly users
+% \item \textbf{UI Component Efficiency:} Designed a modular React.js component library with 50+ reusable elements, streamlining development by 20\% across three projects
+% \item \textbf{Cross-Browser Optimization:} Improved game performance in accross browsers by refining JavaScript game loops with delta timing, ensuring consistent 60 FPS gameplay across browsers
+% \end{itemize}
 
 %----------------------------------------------------------------------------------------
 %	CERTIFICATIONS SECTION
@@ -149,11 +152,11 @@ Dynamic Software Developer with 1.5+ years of experience building scalable web a
 %----------------------------------------------------------------------------------------
 %	ADDITIONAL INFORMATION SECTION
 %----------------------------------------------------------------------------------------
-\section{Additional Information}
-\begin{itemize}
-\item \textbf{Languages:} English (Professional)
-\item \textbf{Work Preference:} Open to remote roles, eligible for EU Blue Card
-\item \textbf{Interests:} Open-source contribution, web performance optimization, modern software architecture, interactive animations
-\end{itemize}
+% \section{Additional Information}
+% \begin{itemize}
+% \item \textbf{Languages:} English (Professional)
+% % \item \textbf{Work Preference:} Open to remote roles, eligible for EU Blue Card
+% \item \textbf{Interests:} Open-source contribution, web performance optimization, modern software architecture, interactive animations
+% \end{itemize}
 
 \end{document}
