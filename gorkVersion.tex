@@ -6,11 +6,20 @@
 \usepackage{xcolor}
 \usepackage{enumitem}
 \usepackage[T1]{fontenc}
-\usepackage{roboto} % Using Roboto font
+\usepackage{helvet} % Arial-like font
+\usepackage[sfdefault]{roboto} % Using Roboto as the primary sans-serif font
+\renewcommand{\familydefault}{\sfdefault} % Make sans-serif the default font family
 \usepackage{titlesec}
 \usepackage{tabularx}
 \usepackage{fontawesome5} % For icons in the header
 \usepackage{ragged2e} % For justified text with better hyphenation
+
+% Font size control - you can adjust these values
+\newcommand{\sectionfontsize}{\Large} % Section headers font size
+\newcommand{\subsectionfontsize}{\normalsize} % Subsection font size
+\newcommand{\bodyfontsize}{\small} % Main content font size
+\newcommand{\headerfontsize}{\huge} % Header name font size
+\newcommand{\summaryfontsize}{\small} % Summary text font size
 
 % Disabling section numbering to remove numbers before headings
 \setcounter{secnumdepth}{0}
@@ -30,16 +39,16 @@
 }
 
 % Customizing section headers for a modern, clean aesthetic
-\titleformat{\section}{\Large\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
+\titleformat{\section}{\sectionfontsize\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
 \titlespacing*{\section}{0pt}{20pt}{6pt}
 
 % Custom command for the header - removed background box
 \newcommand{\resumeHeader}[6]{ % Add 5th argument for summary
     \begin{center}
         \vspace*{10pt}
-        {\Huge\bfseries\color{headercolor} #1} \\[8pt]
+        {\headerfontsize\bfseries\color{headercolor} #1} \\[8pt]
       {\large\color{headercolor} Software Developer} \\[4pt]
-{\small\color{headercolor} #6} \\[8pt]
+{\bodyfontsize\color{headercolor} #6} \\[8pt]
         {\normalsize\color{headercolor}
             \faPhone~ {+92 311 1208388} {}
             \faEnvelope~\href{mailto:hamzaabhutta@gmail.com}{hamzaabhutta@gmail.com}  {}
@@ -55,11 +64,11 @@
 
 
 % Customizing subsection for experience entries
-\titleformat{\subsection}{\normalsize\bfseries\color{headercolor}}{\thesubsection}{1em}{}
+\titleformat{\subsection}{\subsectionfontsize\bfseries\color{headercolor}}{\thesubsection}{1em}{}
 \titlespacing*{\subsection}{0pt}{5pt}{4pt}
 
 % Setting up itemize for consistent spacing
-\setlist[itemize]{leftmargin=*,itemsep=0.3em,topsep=0.3em}
+\setlist[itemize]{leftmargin=*,itemsep=0.3em,topsep=0.3em,font=\bodyfontsize}
 
 \begin{document}
 \pagestyle{empty} % No page numbers for single-page resume
