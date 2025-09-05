@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1754030926.19048 "gorkVersion.xdv" "gorkVersion.pdf" "gorkVersion" 1754030926.6385 0
-  "gorkVersion.xdv" 1754030925 48768 1dffeeba163a9e7644d9625f91fc2493 "xelatex"
+["xdvipdfmx"] 1757058341.93205 "gorkVersion.xdv" "gorkVersion.pdf" "gorkVersion" 1757058342.43651 0
+  "gorkVersion.xdv" 1757058341 49764 9901a336fa09d62e6503eeb6193e63ef "xelatex"
   (generated)
   "gorkVersion.pdf"
   (rewritten before read)
-["xelatex"] 1754030923.71719 "d:/codes/Latex/resume/gorkVersion.tex" "gorkVersion.xdv" "gorkVersion" 1754030926.63511 0
+["xelatex"] 1757058339.57454 "d:/codes/Latex/resume/gorkVersion.tex" "gorkVersion.xdv" "gorkVersion" 1757058342.43396 0
   "C:/Users/info/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1753081923 27008990 cf2390180a5f5c645a3d293cc20b262d ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136801054 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -67,7 +67,6 @@
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1724854269 4674 22943918cc84173478a588d6efbc800b ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1724854269 9783 ab4bee47700c04aadedb8da27591b0ab ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd" 1430474546 1867 996fe743d88a01aca041ed22cc10e1bb ""
-  "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/helvet.sty" 1585926771 1558 de0ad166b701b820e03588a29bb30798 ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty" 1687525147 10085 3dececaeed388e31285c366e124c0c4e ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
@@ -78,10 +77,10 @@
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/info/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "d:/codes/Latex/resume/gorkVersion.tex" 1754030923 10561 64909f6e98bd1ed3ee1b19a3c6223908 ""
-  "gorkVersion.aux" 1754030925 1109 fd8137e96c66202120c3d55bf8d36a54 "xelatex"
-  "gorkVersion.out" 1754030925 1510 8f3f345bca9a00049a34ccdc9b7c2d99 "xelatex"
-  "gorkVersion.tex" 1754030923 10561 64909f6e98bd1ed3ee1b19a3c6223908 ""
+  "d:/codes/Latex/resume/gorkVersion.tex" 1757058338 9929 990b7af839ae79a6157a7ac17fee21fa ""
+  "gorkVersion.aux" 1757058341 1109 fd8137e96c66202120c3d55bf8d36a54 "xelatex"
+  "gorkVersion.out" 1757058341 1510 8f3f345bca9a00049a34ccdc9b7c2d99 "xelatex"
+  "gorkVersion.tex" 1757058338 9929 990b7af839ae79a6157a7ac17fee21fa ""
   (generated)
   "gorkVersion.aux"
   "gorkVersion.log"
