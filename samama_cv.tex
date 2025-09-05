@@ -1,0 +1,156 @@
+\documentclass[10pt]{article}
+
+% Configuring page geometry for maximum space utilization
+\usepackage[left=0.5in,top=0.4in,right=0.5in,bottom=0.4in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault]{roboto}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+
+% Compact font sizes for single page
+\newcommand{\sectionfontsize}{\large}
+\newcommand{\headerfontsize}{\Large}
+\newcommand{\bodyfontsize}{\small}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+% Professional color scheme
+\definecolor{mybgcolor}{HTML}{FFFFFF}
+\definecolor{headercolor}{HTML}{2d3748}
+\definecolor{linkcolor}{HTML}{2563eb}
+\pagecolor{mybgcolor}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    urlcolor=linkcolor,
+    linkcolor=linkcolor
+}
+
+% Compact section formatting
+\titleformat{\section}{\sectionfontsize\bfseries\color{headercolor}}{\thesection}{1em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{8pt}{3pt}
+
+% Compact header
+\newcommand{\resumeHeader}[1]{
+    \begin{center}
+        {\headerfontsize\bfseries\color{headercolor} Samama Kamran} \\[2pt]
+        {\normalsize\color{headercolor} Social Media Coordinator \& Project Manager} \\[4pt]
+        {\bodyfontsize\color{headercolor}
+            \faPhone~ +92 336 6178592 \quad
+            \faEnvelope~\href{mailto:samama0786@gmail.com}{samama0786@gmail.com} \quad
+            \faLinkedin~\href{https://www.linkedin.com/in/samamakamran}{linkedin.com/in/samamakamran}
+        } \\[3pt]
+        {\bodyfontsize\color{headercolor} Nasheman Iqbal, Khayaban-e-Jinnah, Lahore}
+        \vspace{6pt}
+    \end{center}
+}
+
+% Compact itemize
+\setlist[itemize]{leftmargin=15pt,itemsep=0.1em,topsep=0.1em,font=\bodyfontsize,parsep=0pt}
+
+\begin{document}
+\pagestyle{empty}
+
+% Header
+\resumeHeader{}
+
+% Professional Summary
+\section{Professional Summary}
+\bodyfontsize
+Experienced Social Media Coordinator and Project Manager with 3+ years in operations, team leadership, and content production. Proven expertise in managing cross-functional teams, executing social media strategies, and coordinating complex projects across media, immigration, and financial services sectors. Strong background in customer support, business development, and stakeholder management.
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\section{Professional Experience}
+
+\textbf{Social Media Coordinator} | IBEX \hfill February 2025 -- Present
+\begin{itemize}
+\item Respond to JazzCash customer emails and inquiries within defined SLAs for leading BPO company
+\item Resolve customer complaints through effective problem-solving and cross-functional team collaboration
+\item Provide financial services support promoting digital payments and financial inclusion initiatives
+\item Collaborate with internal teams to ensure seamless customer experience delivery
+\end{itemize}
+\textbf{Social Media Producer \& Project Head} | Princeton Group of Companies \hfill November 2023 – November 2024
+\begin{itemize}
+\item Handled daily operations and executed comprehensive social media content strategies for property, media, and travel investments
+\item Led cross-functional production teams including content producers, anchors, video editors, and cameramen
+\item Managed event planning, brand activations, financial coordination, and vendor payment processing
+\item Developed strategic partnerships with stakeholders and public figures across multiple business verticals
+\item Coordinated procurement, inventory management, and distribution of branded merchandise
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+\section{Technical Skills}
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+\textbf{Management:} & Project Management, Team Leadership, Operations Management, Business Development \\
+\textbf{Digital:} & Social Media Strategy, Content Production, Email Marketing, Customer Support \\
+\textbf{Software:} & MS Word, MS Excel, PowerPoint, Google Sheets, Outlook \\
+\textbf{Specialties:} & Event Planning, Financial Coordination, Vendor Management, Stakeholder Relations \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	PROJECTS
+%----------------------------------------------------------------------------------------
+\section{Notable Projects \& Collaborations}
+\textbf{Ex Federal Minister Media Operations} | Firdous Aashiq Awan \\
+\textit{Head of Operations \& Coordination, Social Media Lead} \hfill January 2024 – May 2024
+\begin{itemize}
+\item Led comprehensive media operations and coordination for high-profile political figure
+\item Managed social media strategy and content production across multiple platforms
+\end{itemize}
+\textbf{Almarah Foundation Operations} | DIG Punjab Police Mehboob Aslam Lilla \\
+\textit{Operations Head, Production \& Social Media Lead} \hfill February 2024 – April 2024
+\begin{itemize}
+\item Supervised complete team operations and coordinated large-scale community events
+\item Led production and social media teams for foundation's awareness campaigns
+\end{itemize}
+\textbf{Government Agriculture Campaign} | Government of Punjab \\
+\textit{Field Coordinator \& Training Specialist} \hfill November 2021 – December 2023
+\begin{itemize}
+\item Conducted village visits and field assessments for wheat campaign initiatives
+\item Delivered farmer training programs and awareness sessions across rural communities
+\end{itemize}
+\textbf{Humans of Burewala NGO} | Rizq Trust Partner \\
+\textit{Operations Manager} \hfill May 2019 – July 2023
+\begin{itemize}
+\item Managed complete operations, coordination, and social activities for community NGO
+\item Handled media relations and associate communications for charitable initiatives
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION & CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\section{Education \& Certifications}
+\textbf{BSc (Hons) Agriculture - Plant Pathology} | University of Agriculture Faisalabad \hfill 2019-2023 \\
+GPA: 3.24 \\[4pt]
+\textbf{Certifications:} \\
+Pakistan Agricultural Research Council, Hult Prize Foundation United Nations, Youth General Assembly, Professional Hosting \& Anchoring (UET Lahore)
+
+%----------------------------------------------------------------------------------------
+%	RECENT PROJECTS
+%----------------------------------------------------------------------------------------
+% \section{Recent Media \& Presentation Work}
+% \begin{itemize}
+% \item \textbf{Rebirth Education Consultant:} Podcast host for social media content (January-February 2025)
+% \item \textbf{Deals Makers (Kingdom Valley):} Brand presenter for real estate social media campaigns (October-December 2024)
+% \item \textbf{Souk Galleria:} Middle East fragrance brand presenter for social media advertisements (October-December 2024)
+% \end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+\section{Additional Information}
+\textbf{Languages:} English (Professional), Urdu (Native) \quad \textbf{Experience:} 3+ years \quad \textbf{Availability:} Immediate \\
+\textbf{Specialties:} Team Leadership, Cross-functional Coordination, Media Production \quad \textbf{Career Goal:} Long-term success in dynamic environments
+
+\end{document}
